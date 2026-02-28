@@ -1,4 +1,4 @@
-"""Taller evaluable"""
+"""Taller evaluable."""
 
 # pylint: disable=broad-exception-raised
 
